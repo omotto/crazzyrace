@@ -1,0 +1,4 @@
+city_2 = 0 0 2937 532
+citybg = 0 925 1022 285
+citybg2 = 0 533 1555 391
+L12-Background-Silhouette = 1023 925 1000 464
